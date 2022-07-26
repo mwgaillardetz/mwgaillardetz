@@ -1,4 +1,4 @@
-# Hi there 👋
+# Ahoy! 👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matt-gaillardetz-9978b3b3/">
