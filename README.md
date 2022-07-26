@@ -24,7 +24,7 @@ Father, husband, and devoted DevOps Engineer. I enjoy casting spells with my son
  
 A little about myself - I have worked in IT for over a decade now, starting as a help desk technician in college. After college, I took a step further in my career as a systems administrator for a non-profit organization. For eight years, I honed my Windows administration skills. When I grew tired of resetting user passwords I decided to broaden my horizons with a career in DevOps, and I haven't looked back. 
 
-![Metrics](https://raw.githubusercontent.com/mwgaillardetz/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/mwgaillardetz/mwgaillardetz/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/mwgaillardetz/mwgaillardetz/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/mwgaillardetz/mwgaillardetz/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mwgaillardetz/mwgaillardetz/github-metrics/achievements.svg)
