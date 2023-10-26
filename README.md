@@ -19,7 +19,10 @@
 </div>
 
 ## Matt Gaillardetz
+👨‍💻🧙‍♂️
+A dedicated technologist with a passion for automation and operations. My journey through the realms of technology has been marked by a diverse array of interests and accomplishments. When I am not automating processes, I enjoy casting spells with my son. 
 
-Father, husband, and devoted engineer. I enjoy casting spells with my son, and destroying repeatable tasks with automation.
+🐳 Containerization Enthusiast
+Within the world of containerization, Docker is my tool of choice. I thrive on the orchestration of self-hosted, containerized applications. This practice offers not only efficiency and scalability but also ensures a robust and controlled environment for my digital ventures.
 
 ![Metrics](https://metrics.lecoq.io/mwgaillardetz?template=classic&base.header=0&base.community=0&base.repositories=0&languages=1&fortune=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
