@@ -20,7 +20,7 @@
 
 ## Matt Gaillardetz
 👨‍💻🧙‍♂️🐳
-Father, husband, and dedicated engineer with a passion for automation and operations. When I am not automating processes or spinning up containerized applications, I enjoy casting spells with my son or venturing through the many trails Maine has to offer. 
+Father, husband, and dedicated engineer with an unwavering zeal for automation and operational excellence.  Beyond the realm of optimizing processes and orchestrating containerized applications, I find solace casting spells with my son or hiking through the great outdorrs of Maine. 
 
 
 ![Metrics](https://metrics.lecoq.io/mwgaillardetz?template=classic&base.header=0&base.community=0&base.repositories=0&languages=1&fortune=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
