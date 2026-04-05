@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480">
+  <rect width="720" height="480" rx="8" fill="#0d1117"/>
+  <style>
+    text { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #98ffcc; }
+    .dim { fill: #4a9e72; }
+    .bright { fill: #ffffff; }
+  </style>
+
+  <!-- Divider -->
+  <text x="20" y="250" class="bright">matt@gaillardetz</text>
+  <text x="20" y="250" class="dim" x="148"> ────────────────────────────────────────</text>
+  <text x="148" y="250" class="dim">────────────────────────────────────────</text>
+
+  <!-- Info lines -->
+  <text x="20" y="270"> . <tspan class="bright">OS:</tspan>             .......................... Maine (Androscoggin 34 LTS)</text>
+  <text x="20" y="286"> . <tspan class="bright">Uptime:</tspan>         ...................... 34 years in Androscoggin County</text>
+  <text x="20" y="302"> . <tspan class="bright">Shell:</tspan>          ....................... Bash / PowerShell</text>
+  <text x="20" y="318"> . <tspan class="bright">Editor:</tspan>         ...................... VS Code</text>
+  <text x="20" y="334"> .</text>
+  <text x="20" y="350"> . <tspan class="bright">Languages:</tspan>      .................. Python, Bash, PowerShell</text>
+  <text x="20" y="366"> . <tspan class="bright">IaC:</tspan>            ........................ Terraform, Ansible</text>
+  <text x="20" y="382"> . <tspan class="bright">Containers:</tspan>     ................. Docker, Kubernetes</text>
+  <text x="20" y="398"> .</text>
+  <text x="20" y="414"> . <tspan class="bright">Hobbies.Home:</tspan>   ............... Casting spells with the kids</text>
+  <text x="20" y="430"> . <tspan class="bright">Hobbies.Outside:</tspan> ............ Braving the Maine outdoors</text>
+
+  <!-- Contact -->
+  <text x="20" y="450" class="dim"> – Contact ──────────────────────────────────────────────</text>
+  <text x="20" y="466"> . <tspan class="bright">LinkedIn:</tspan>       ................... linkedin.com/in/matt-gaillardetz-9978b3b3</text>
+</svg>
