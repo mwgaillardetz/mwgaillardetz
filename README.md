@@ -1,6 +1,7 @@
 # Hello! 👋
 ## Matt Gaillardetz
 Dedicated engineer with an unwavering zeal for automation and operational excellence. I find solace casting spells with my kids or braving the outdoors.
+```
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
