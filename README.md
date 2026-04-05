@@ -19,8 +19,15 @@
 </div> -->
 
 ## Matt Gaillardetz
-I'm a dedicated engineer with an unwavering zeal for automation and operational excellence.  I find solace casting spells with my kids or braving the Maine outdoors.
+Dedicated engineer with an unwavering zeal for automation and operational excellence. I find solace casting spells with my kids or braving the outdoors.
 
-<!--
-![Metrics](https://metrics.lecoq.io/mwgaillardetz?template=classic&base.header=0&base.community=0&base.repositories=0&languages=1&fortune=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
--->
+### Tools & Tech
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Metrics](github-metrics.svg)
