@@ -1,30 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480">
-  <rect width="720" height="480" rx="8" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="560">
+  <rect width="780" height="560" rx="6" fill="#0d1117"/>
   <style>
-    text { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #98ffcc; }
-    .dim { fill: #4a9e72; }
-    .bright { fill: #ffffff; }
+    .f { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; }
+    .g { fill: #98ffcc; }
+    .w { fill: #e6edf3; }
   </style>
-
-  <!-- Divider -->
-  <text x="20" y="250" class="bright">matt@gaillardetz</text>
-  <text x="20" y="250" class="dim" x="148"> ────────────────────────────────────────</text>
-  <text x="148" y="250" class="dim">────────────────────────────────────────</text>
-
-  <!-- Info lines -->
-  <text x="20" y="270"> . <tspan class="bright">OS:</tspan>             .......................... Maine (Androscoggin 34 LTS)</text>
-  <text x="20" y="286"> . <tspan class="bright">Uptime:</tspan>         ...................... 34 years in Androscoggin County</text>
-  <text x="20" y="302"> . <tspan class="bright">Shell:</tspan>          ....................... Bash / PowerShell</text>
-  <text x="20" y="318"> . <tspan class="bright">Editor:</tspan>         ...................... VS Code</text>
-  <text x="20" y="334"> .</text>
-  <text x="20" y="350"> . <tspan class="bright">Languages:</tspan>      .................. Python, Bash, PowerShell</text>
-  <text x="20" y="366"> . <tspan class="bright">IaC:</tspan>            ........................ Terraform, Ansible</text>
-  <text x="20" y="382"> . <tspan class="bright">Containers:</tspan>     ................. Docker, Kubernetes</text>
-  <text x="20" y="398"> .</text>
-  <text x="20" y="414"> . <tspan class="bright">Hobbies.Home:</tspan>   ............... Casting spells with the kids</text>
-  <text x="20" y="430"> . <tspan class="bright">Hobbies.Outside:</tspan> ............ Braving the Maine outdoors</text>
-
-  <!-- Contact -->
-  <text x="20" y="450" class="dim"> – Contact ──────────────────────────────────────────────</text>
-  <text x="20" y="466"> . <tspan class="bright">LinkedIn:</tspan>       ................... linkedin.com/in/matt-gaillardetz-9978b3b3</text>
+  <text class="f g" x="16" y="28"></text>
+  <text class="f g" x="16" y="46">`7MMM.     ,MMF'         mm     mm</text>
+  <text class="f g" x="16" y="64">  MMMb    dPMM           MM     MM</text>
+  <text class="f g" x="16" y="82">  M YM   ,M MM   ,6"Yb.mmMMmm mmMMmm</text>
+  <text class="f g" x="16" y="100">  M  Mb  M' MM  8)   MM  MM     MM</text>
+  <text class="f g" x="16" y="118">  M  YM.P'  MM   ,pm9MM  MM     MM</text>
+  <text class="f g" x="16" y="136">  M  `YM'   MM  8M   MM  MM     MM</text>
+  <text class="f g" x="16" y="154">.JML. `'  .JMML.`Moo9^Yo.`Mbmo  `Mbmo</text>
+  <text class="f g" x="16" y="172">                       ,,    ,,    ,,                          ,,</text>
+  <text class="f g" x="16" y="190">  .g8"""bgd            db  `7MM  `7MM                          MM           mm</text>
+  <text class="f g" x="16" y="208">.dP'     `M                  MM    MM                          MM           MM</text>
+  <text class="f g" x="16" y="226">dM'       `  ,6"Yb.  `7MM    MM    MM   ,6"Yb.  `7Mb,od8  ,M""bMM  .gP"Ya mmMMmm M"""MMV</text>
+  <text class="f g" x="16" y="244">MM          8)   MM    MM    MM    MM  8)   MM    MM' "',AP    MM ,M'   Yb  MM   '  AMV</text>
+  <text class="f g" x="16" y="262">MM.    `7MMF',pm9MM    MM    MM    MM   ,pm9MM    MM    8MI    MM 8M""""""  MM     AMV</text>
+  <text class="f g" x="16" y="280">`Mb.     MM 8M   MM    MM    MM    MM  8M   MM    MM    `Mb    MM YM.    ,  MM    AMV  ,</text>
+  <text class="f g" x="16" y="298">  `"bmmmdPY `Moo9^Yo..JMML..JMML..JMML.`Moo9^Yo..JMML.   `Wbmd"MML.`Mbmmd'  `MbmoAMMmmmM</text>
+  <text class="f g" x="16" y="326">matt@gaillardetz ────────────────────────────────────────</text>
+  <text class="f g" x="16" y="344"> . <tspan class="w">OS:</tspan><tspan class="g"> .................. MacOS</tspan></text>
+  <text class="f g" x="16" y="362"> . <tspan class="w">Uptime:</tspan><tspan class="g"> .............. 34 years</tspan></text>
+  <text class="f g" x="16" y="380"> . <tspan class="w">Shell:</tspan><tspan class="g"> ............... Powershell, Bash</tspan></text>
+  <text class="f g" x="16" y="398"> . <tspan class="w">Editor:</tspan><tspan class="g"> .............. VS Code, Sublime Text</tspan></text>
+  <text class="f g" x="16" y="416"> . <tspan class="w">Languages:</tspan><tspan class="g"> ........... Python, PowerShell, Bash</tspan></text>
+  <text class="f g" x="16" y="434"> . <tspan class="w">IaC:</tspan><tspan class="g"> ................. Terraform, Ansible</tspan></text>
+  <text class="f g" x="16" y="452"> . <tspan class="w">Containers:</tspan><tspan class="g"> .......... Docker, Kubernetes</tspan></text>
+  <text class="f g" x="16" y="470"> . <tspan class="w">Hobbies.Home:</tspan><tspan class="g"> ........ Games, Cooking, Fitness, Development</tspan></text>
+  <text class="f g" x="16" y="488"> . <tspan class="w">Hobbies.Outside:</tspan><tspan class="g"> ..... Hiking, Sports, Waves</tspan></text>
+  <text class="f g" x="16" y="506"> . <tspan class="w">LinkedIn:</tspan><tspan class="g"> ............ linkedin.com/in/matt-gaillardetz-9978b3b3</tspan></text>
 </svg>
