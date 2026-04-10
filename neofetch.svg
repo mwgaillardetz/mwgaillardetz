@@ -1,35 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="560">
-  <rect width="780" height="560" rx="6" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="230">
+  <rect width="700" height="230" rx="6" fill="#0d1117"/>
   <style>
     .f { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; }
     .g { fill: #98ffcc; }
     .w { fill: #e6edf3; }
   </style>
-  <text class="f g" x="16" y="28"></text>
-  <text class="f g" x="16" y="46">`7MMM.     ,MMF'         mm     mm</text>
-  <text class="f g" x="16" y="64">  MMMb    dPMM           MM     MM</text>
-  <text class="f g" x="16" y="82">  M YM   ,M MM   ,6"Yb.mmMMmm mmMMmm</text>
-  <text class="f g" x="16" y="100">  M  Mb  M' MM  8)   MM  MM     MM</text>
-  <text class="f g" x="16" y="118">  M  YM.P'  MM   ,pm9MM  MM     MM</text>
-  <text class="f g" x="16" y="136">  M  `YM'   MM  8M   MM  MM     MM</text>
-  <text class="f g" x="16" y="154">.JML. `'  .JMML.`Moo9^Yo.`Mbmo  `Mbmo</text>
-  <text class="f g" x="16" y="172">                       ,,    ,,    ,,                          ,,</text>
-  <text class="f g" x="16" y="190">  .g8"""bgd            db  `7MM  `7MM                          MM           mm</text>
-  <text class="f g" x="16" y="208">.dP'     `M                  MM    MM                          MM           MM</text>
-  <text class="f g" x="16" y="226">dM'       `  ,6"Yb.  `7MM    MM    MM   ,6"Yb.  `7Mb,od8  ,M""bMM  .gP"Ya mmMMmm M"""MMV</text>
-  <text class="f g" x="16" y="244">MM          8)   MM    MM    MM    MM  8)   MM    MM' "',AP    MM ,M'   Yb  MM   '  AMV</text>
-  <text class="f g" x="16" y="262">MM.    `7MMF',pm9MM    MM    MM    MM   ,pm9MM    MM    8MI    MM 8M""""""  MM     AMV</text>
-  <text class="f g" x="16" y="280">`Mb.     MM 8M   MM    MM    MM    MM  8M   MM    MM    `Mb    MM YM.    ,  MM    AMV  ,</text>
-  <text class="f g" x="16" y="298">  `"bmmmdPY `Moo9^Yo..JMML..JMML..JMML.`Moo9^Yo..JMML.   `Wbmd"MML.`Mbmmd'  `MbmoAMMmmmM</text>
-  <text class="f g" x="16" y="326">matt@gaillardetz ────────────────────────────────────────</text>
-  <text class="f g" x="16" y="344"> . <tspan class="w">OS:</tspan><tspan class="g"> .................. MacOS</tspan></text>
-  <text class="f g" x="16" y="362"> . <tspan class="w">Uptime:</tspan><tspan class="g"> .............. 34 years</tspan></text>
-  <text class="f g" x="16" y="380"> . <tspan class="w">Shell:</tspan><tspan class="g"> ............... Powershell, Bash</tspan></text>
-  <text class="f g" x="16" y="398"> . <tspan class="w">Editor:</tspan><tspan class="g"> .............. VS Code, Sublime Text</tspan></text>
-  <text class="f g" x="16" y="416"> . <tspan class="w">Languages:</tspan><tspan class="g"> ........... Python, PowerShell, Bash</tspan></text>
-  <text class="f g" x="16" y="434"> . <tspan class="w">IaC:</tspan><tspan class="g"> ................. Terraform, Ansible</tspan></text>
-  <text class="f g" x="16" y="452"> . <tspan class="w">Containers:</tspan><tspan class="g"> .......... Docker, Kubernetes</tspan></text>
-  <text class="f g" x="16" y="470"> . <tspan class="w">Hobbies.Home:</tspan><tspan class="g"> ........ Games, Cooking, Fitness, Development</tspan></text>
-  <text class="f g" x="16" y="488"> . <tspan class="w">Hobbies.Outside:</tspan><tspan class="g"> ..... Hiking, Sports, Waves</tspan></text>
-  <text class="f g" x="16" y="506"> . <tspan class="w">LinkedIn:</tspan><tspan class="g"> ............ linkedin.com/in/matt-gaillardetz-9978b3b3</tspan></text>
+  <text class="f g" x="16" y="28">matt@gaillardetz ────────────────────────────────────────</text>
+  <text class="f g" x="16" y="46"> . <tspan class="w">OS:</tspan><tspan class="g"> .................. MacOS</tspan></text>
+  <text class="f g" x="16" y="64"> . <tspan class="w">Uptime:</tspan><tspan class="g"> .............. 34 years</tspan></text>
+  <text class="f g" x="16" y="82"> . <tspan class="w">Shell:</tspan><tspan class="g"> ............... Powershell, Bash</tspan></text>
+  <text class="f g" x="16" y="100"> . <tspan class="w">Editor:</tspan><tspan class="g"> .............. VS Code, Sublime Text</tspan></text>
+  <text class="f g" x="16" y="118"> . <tspan class="w">Languages:</tspan><tspan class="g"> ........... Python, PowerShell, Bash</tspan></text>
+  <text class="f g" x="16" y="136"> . <tspan class="w">IaC:</tspan><tspan class="g"> ................. Terraform, Ansible</tspan></text>
+  <text class="f g" x="16" y="154"> . <tspan class="w">Containers:</tspan><tspan class="g"> .......... Docker, Kubernetes</tspan></text>
+  <text class="f g" x="16" y="172"> . <tspan class="w">Hobbies.Home:</tspan><tspan class="g"> ........ Games, Cooking, Fitness, Development</tspan></text>
+  <text class="f g" x="16" y="190"> . <tspan class="w">Hobbies.Outside:</tspan><tspan class="g"> ..... Hiking, Sports, Waves</tspan></text>
+  <text class="f g" x="16" y="208"> . <tspan class="w">LinkedIn:</tspan><tspan class="g"> ............ linkedin.com/in/matt-gaillardetz-9978b3b3</tspan></text>
 </svg>
