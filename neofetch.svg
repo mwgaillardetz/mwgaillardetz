@@ -5,14 +5,14 @@
     .g { fill: #98ffcc; }
     .w { fill: #e6edf3; }
   </style>
-  <text class="f g" x="16" y="28">matt@gaillardetz ────────────────────────────────────────</text>
-  <text class="f g" x="16" y="46"> . <tspan class="w">OS:</tspan><tspan class="g"> ................... MacOS</tspan></text>
-  <text class="f g" x="16" y="82"> . <tspan class="w">Shell:</tspan><tspan class="g"> ................ Powershell, Bash</tspan></text>
-  <text class="f g" x="16" y="100"> . <tspan class="w">Editor:</tspan><tspan class="g"> .............. VS Code, Sublime Text</tspan></text>
-  <text class="f g" x="16" y="118"> . <tspan class="w">Languages:</tspan><tspan class="g"> ........... Python, PowerShell, Bash</tspan></text>
-  <text class="f g" x="16" y="136"> . <tspan class="w">IaC:</tspan><tspan class="g"> ................. Terraform, Ansible</tspan></text>
-  <text class="f g" x="16" y="154"> . <tspan class="w">Containers:</tspan><tspan class="g"> .......... Docker, Kubernetes</tspan></text>
-  <text class="f g" x="16" y="172"> . <tspan class="w">Hobbies.Home:</tspan><tspan class="g"> ........ Games, Cooking, Fitness, Development</tspan></text>
-  <text class="f g" x="16" y="190"> . <tspan class="w">Hobbies.Outside:</tspan><tspan class="g"> ..... Hiking, Sports, teaching my son how to play Mario Kart</tspan></text>
-  <text class="f g" x="16" y="208"> . <tspan class="w">LinkedIn:</tspan><tspan class="g"> ............ linkedin.com/in/matt-gaillardetz-9978b3b3</tspan></text>
+<text class="f g" x="16" y="28">matt@gaillardetz ────────────────────────────────────────</text>
+<text class="f g" x="16" y="46"> . <tspan class="w">OS:</tspan><tspan class="g"> ................... macOS</tspan></text>
+<text class="f g" x="16" y="64"> . <tspan class="w">Shell:</tspan><tspan class="g"> ................ PowerShell, Bash</tspan></text>
+<text class="f g" x="16" y="82"> . <tspan class="w">Editor:</tspan><tspan class="g"> ............... VS Code, Sublime Text</tspan></text>
+<text class="f g" x="16" y="100"> . <tspan class="w">Languages:</tspan><tspan class="g"> ............ Python, PowerShell, Bash</tspan></text>
+<text class="f g" x="16" y="118"> . <tspan class="w">IaC:</tspan><tspan class="g"> ................ Terraform, Ansible</tspan></text>
+<text class="f g" x="16" y="136"> . <tspan class="w">Containers:</tspan><tspan class="g"> ........... Docker, Kubernetes</tspan></text>
+<text class="f g" x="16" y="154"> . <tspan class="w">Hobbies.Home:</tspan><tspan class="g"> ......... Gaming, Cooking, Fitness, Development</tspan></text>
+<text class="f g" x="16" y="172"> . <tspan class="w">Hobbies.Outside:</tspan><tspan class="g"> ...... Hiking, Sports, Teaching my son Mario Kart</tspan></text>
+<text class="f g" x="16" y="190"> . <tspan class="w">LinkedIn:</tspan><tspan class="g"> ............ linkedin.com/in/matt-gaillardetz-9978b3b3</tspan></text>
 </svg>
