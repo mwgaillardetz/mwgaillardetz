@@ -1,20 +1,10 @@
-```
-M""""""`'"""`M            dP     dP                                               
-M  mm.  mm.  M            88     88                                               
-M  MMM  MMM  M .d8888b. d8888P d8888P                                             
-M  MMM  MMM  M 88'  `88   88     88                                               
-M  MMM  MMM  M 88.  .88   88     88                                               
-M  MMM  MMM  M `88888P8   dP     dP                                               
-MMMMMMMMMMMMMM                                                                    
-                                                                                  
-MM'"""""`MM          oo dP dP                         dP            dP            
-M' .mmm. `M             88 88                         88            88            
-M  MMMMMMMM .d8888b. dP 88 88 .d8888b. 88d888b. .d888b88 .d8888b. d8888P d888888b 
-M  MMM   `M 88'  `88 88 88 88 88'  `88 88'  `88 88'  `88 88ooood8   88      .d8P' 
-M. `MMM' .M 88.  .88 88 88 88 88.  .88 88       88.  .88 88.  ...   88    .Y8P    
-MM.     .MM `88888P8 dP dP dP `88888P8 dP       `88888P8 `88888P'   dP   d888888P 
-MMMMMMMMMMM                                                                       
-```
+# Matt Gaillardetz
+
+**CloudOps Engineer** | Automating infrastructure & streamlining operations
+
+---
+
+## Tech Stack
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -24,6 +14,17 @@ MMMMMMMMMMM
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![neofetch](neofetch.svg)
+---
+
+## GitHub Stats
+
+<a href="https://github.com/mwgaillardetz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwgaillardetz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mwgaillardetz&theme=radical" />
+</a>
+
+---
+
+## Activity
 
 ![Metrics](github-metrics.svg)
