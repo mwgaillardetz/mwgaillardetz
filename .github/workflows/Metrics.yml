@@ -38,9 +38,9 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming, scripting
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 500
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 200
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
