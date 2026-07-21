@@ -2,8 +2,6 @@
 
 **CloudOps Engineer** | Automating infrastructure & streamlining operations
 
----
-
 ## Tech Stack
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
