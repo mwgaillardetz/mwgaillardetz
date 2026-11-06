@@ -1,6 +1,6 @@
 # Matt Gaillardetz
 
-**CloudOps Engineer** | Automating infrastructure & operations | Father of muggles
+**Platform Operations Engineer** | Automating infrastructure & operations | Father of muggles
 
 ## Tech Stack
 
